@@ -1,0 +1,442 @@
+X__1,FDR,desc
+PBANKA_0100400,1.9864283608189102e-27,"reticulocyte binding protein, putative"
+PBANKA_0100500,4.05562051955844e-07,PIR protein
+PBANKA_0100700,4.780368847969329e-113,"Plasmodium exported protein, unknown function"
+PBANKA_0100900,2.74605316420981e-14,"ATP-dependent RNA helicase, putative"
+PBANKA_0102900,0.000342419622384325,"AP2 domain transcription factor, putative"
+PBANKA_0107400,1.14913615800991e-09,"ornithine aminotransferase, putative"
+PBANKA_0107700,0.000285601087795692,zinc transporter ZIP1
+PBANKA_0108800,7.85705859506471e-13,"histone H3, putative"
+PBANKA_0110500,9.55830880463365e-06,leucine-rich repeat protein
+PBANKA_0111000,1.2150772141631599e-21,6-cysteine protein
+PBANKA_0112100,0.0135194857763676,"AP2 domain transcription factor, putative"
+PBANKA_0112200,3.1806099526904196e-44,"myosin E, putative"
+PBANKA_0112500,2.8071829551263e-09,"major facilitator superfamily-related transporter, putative"
+PBANKA_0200400,1.4506473689267497e-29,"Plasmodium exported protein, unknown function"
+PBANKA_0201250,3.2757823571314003e-10,"PIR protein, pseudogene"
+PBANKA_0201300,1.63957377397648e-19,"lysophospholipase, putative"
+PBANKA_0201500,8.977211119211208e-19,"Plasmodium exported protein, unknown function"
+PBANKA_0204600,2.76421313370864e-89,photosensitized INA-labeled protein PHIL1
+PBANKA_0205000,7.16265888666158e-36,"conserved Plasmodium protein, unknown function"
+PBANKA_0205900,0.006249687317024999,"lipid/sterol:H+ symporter, putative"
+PBANKA_0208900,2.8949968070348805e-05,"StAR-related lipid transfer protein, putative"
+PBANKA_0213400,0.0169069099289393,"60S ribosomal export protein NMD3, putative"
+PBANKA_0214400,5.24933635210038e-31,AP2 domain transcription factor AP2-L
+PBANKA_0214600,7.192705349955e-29,"Plasmodium exported protein, unknown function"
+PBANKA_0214800,4.61978700651528e-08,"heat shock protein, putative"
+PBANKA_0214900,0.0087161735534639,fam-a protein
+PBANKA_0216761,1.98671282760397e-17,"reticulocyte binding protein, putative"
+PBANKA_0216801,8.06474919685264e-07,"reticulocyte binding protein, putative"
+PBANKA_0300600,2.5946414789195995e-53,"Plasmodium exported protein, unknown function"
+PBANKA_0304400,0.00107413107833903,merozoite surface protein 4/5
+PBANKA_0304500,0.003999703645766571,"conserved Plasmodium protein, unknown function"
+PBANKA_0304800,1.9768941484708e-05,serine repeat antigen 4
+PBANKA_0305000,1.2973030257763397e-58,serine repeat antigen 2
+PBANKA_0305100,1.1011721790927497e-50,serine repeat antigen 1
+PBANKA_0307500,6.84018907979758e-10,"conserved Plasmodium protein, unknown function"
+PBANKA_0309500,2.2382666510748698e-33,"secreted protein with altered thrombospondin repeat domain, putative"
+PBANKA_0311400,1.6647409843062198e-09,"serine/threonine protein kinase, putative"
+PBANKA_0311500,7.41074321038056e-06,"conserved Plasmodium protein, unknown function"
+PBANKA_0311700,3.6671902350961795e-07,"rhoptry neck protein 6, putative"
+PBANKA_0311800,9.8131012184855e-33,"acyl-CoA synthetase, putative"
+PBANKA_0312400,0.0245058386361016,"DNA-directed RNA polymerase II subunit RPB2, putative"
+PBANKA_0313300,0.00270444325179231,MtN3-like protein
+PBANKA_0313400,3.28778293048932e-09,"autophagy-related protein 11, putative"
+PBANKA_0314200,1.7916928503434697e-17,calcium-dependent protein kinase 1
+PBANKA_0314500,0.00897427734907018,"40S ribosomal protein S26, putative"
+PBANKA_0316200,5.8081187564857386e-142,"Plasmodium exported protein, unknown function"
+PBANKA_0316300,8.02138892869032e-05,fam-b protein
+PBANKA_0316500,1.76416284492844e-10,"fam-a protein, pseudogene"
+PBANKA_0317061,0.000246509026610559,fam-a protein
+PBANKA_0317161,2.10243655527171e-16,erythrocyte membrane antigen 1
+PBANKA_0402700,2.40702813352946e-16,inner membrane complex protein 1e
+PBANKA_0402800,2.78467335707657e-26,"EH domain-containing protein, putative"
+PBANKA_0404800,5.632117301187589e-07,"FAD-dependent glycerol-3-phosphate dehydrogenase, putative"
+PBANKA_0405400,1.7143079089550303e-05,"40S ribosomal protein S12, putative"
+PBANKA_0405500,1.67306950558669e-10,"60S ribosomal protein L7, putative"
+PBANKA_0406000,0.00182060958697301,"conserved Plasmodium protein, unknown function"
+PBANKA_0406600,1.8791836185242198e-06,"conserved Plasmodium protein, unknown function"
+PBANKA_0414600,0.0136654817865304,"40S ribosomal protein S15A, putative"
+PBANKA_0416000,2.21216461806879e-07,"high molecular weight rhoptry protein 3, putative"
+PBANKA_0417500,4.25938035462263e-14,"60S ribosomal protein L32, putative"
+PBANKA_0417700,1.51673598143857e-17,alpha tubulin 1
+PBANKA_0417800,3.7953082599768605e-05,"conserved Plasmodium protein, unknown function"
+PBANKA_0418500,6.6488198190129284e-52,"Plasmodium exported protein, unknown function"
+PBANKA_0501400,8.70178123081597e-28,"rhoptry neck protein 12, putative"
+PBANKA_0501800,1.5726498529735198e-79,"myosin essential light chain ELC, putative"
+PBANKA_0502500,0.000113411070880806,serine/threonine protein phosphatase 8
+PBANKA_0503600,0.00561632826788031,"60S ribosomal protein L30e, putative"
+PBANKA_0505100,0.000637367394564433,"ADP-ribosylation factor, putative"
+PBANKA_0505900,8.6904685696244e-05,"conserved Plasmodium protein, unknown function"
+PBANKA_0506200,0.009993069151153859,"RNA-binding protein, putative"
+PBANKA_0506900,9.84111917522638e-06,"phospholipid scramblase, putative"
+PBANKA_0509000,0.0212752093910137,"exported protein 3, putative"
+PBANKA_0510800,2.36929405287079e-08,"conserved Plasmodium protein, unknown function"
+PBANKA_0510900,5.81994819987152e-13,"40S ribosomal protein S2, putative"
+PBANKA_0511400,1.1805072980338902e-09,"peroxiredoxin, putative"
+PBANKA_0511900,1.4361371621619499e-12,"60S ribosomal protein L3, putative"
+PBANKA_0512800,1.8371450245669498e-74,merozoite TRAP-like protein
+PBANKA_0513900,0.00256344523918565,"conserved Plasmodium protein, unknown function"
+PBANKA_0514200,1.1206669207381599e-13,"claudin-like apicomplexan microneme protein, putative"
+PBANKA_0515200,1.25463869315328e-23,"MORN repeat-containing protein 1, putative"
+PBANKA_0516900,2.13710807920348e-14,"S-adenosylmethionine decarboxylase/ornithine decarboxylase, putative"
+PBANKA_0517000,1.28324518272229e-35,early transcribed membrane protein
+PBANKA_0517500,2.52144433825088e-10,"bromodomain protein 1, putative"
+PBANKA_0518700,8.60086442733542e-08,"methionine--tRNA ligase, putative"
+PBANKA_0519000,5.97816711871535e-29,"S-antigen, putative"
+PBANKA_0519100,7.296186192262219e-12,"conserved Plasmodium protein, unknown function"
+PBANKA_0519200,3.1761879098851096e-95,"conserved Plasmodium protein, unknown function"
+PBANKA_0519300,4.34565113655926e-05,"conserved Plasmodium protein, unknown function"
+PBANKA_0519400,9.494438080685619e-32,"conserved Plasmodium protein, unknown function"
+PBANKA_0520400,0.0246381900082488,"dynamin-like protein, putative"
+PBANKA_0520900,8.50687521867869e-08,"antigen UB05, putative"
+PBANKA_0521300,0.0108232852114272,"zinc finger protein, putative"
+PBANKA_0521700,2.0372823245993895e-60,"AP2 domain transcription factor, putative"
+PBANKA_0522800,1.29553863874686e-07,"40S ribosomal protein S19, putative"
+PBANKA_0523700,1.88838115421233e-45,"conserved Plasmodium protein, unknown function"
+PBANKA_0523800,1.16871700012395e-11,"asparagine rich protein, putative"
+PBANKA_0523900,1.39332046358932e-28,"glideosome associated protein with multiple membrane spans 2, putative"
+PBANKA_0524100,0.00013168115999024,"conserved Plasmodium protein, unknown function"
+PBANKA_0524200,1.9360962669932897e-11,early transcribed membrane protein
+PBANKA_0524300,2.6548506009932798e-17,tryptophan-rich protein
+PBANKA_0524500,1.03178712935046e-05,"conserved rodent malaria protein, unknown function"
+PBANKA_0524800,1.77805497743555e-24,early transcribed membrane protein
+PBANKA_0600351,2.50823609998018e-13,"reticulocyte binding protein, putative"
+PBANKA_0601900,1.21310704180553e-11,"high mobility group protein B1, putative"
+PBANKA_0603200,2.4560131059532298e-05,"eukaryotic translation initiation factor 5A, putative"
+PBANKA_0603650,1.02777760378965e-31,"conserved Plasmodium protein, unknown function"
+PBANKA_0604200,5.815585798777789e-13,"zinc finger protein, putative"
+PBANKA_0604800,0.000332291512739396,"eukaryotic translation initiation factor 3 subunit C, putative"
+PBANKA_0604900,6.0175818544237505e-06,"conserved Plasmodium protein, unknown function"
+PBANKA_0609100,0.0242588376352492,"conserved Plasmodium protein, unknown function"
+PBANKA_0609900,0.0133402592249228,"heat shock protein DNAJ homologue Pfj4, putative"
+PBANKA_0610200,0.000109256682968672,"DNA replication licensing factor MCM5, putative"
+PBANKA_0611500,0.000226591456896369,"conserved Plasmodium protein, unknown function"
+PBANKA_0611600,0.0271460918754055,"ribonucleoside-diphosphate reductase large subunit, putative"
+PBANKA_0612200,0.0294389120000162,"conserved Plasmodium protein, unknown function"
+PBANKA_0613700,6.09360748892751e-07,"RNA-binding protein, putative"
+PBANKA_0613800,9.518503427517391e-07,"protein SDA1, putative"
+PBANKA_0613900,3.9820771087574294e-07,"PDCD2 domain-containing protein, putative"
+PBANKA_0614500,0.0354857793082646,"eukaryotic translation initiation factor 3 subunit I, putative"
+PBANKA_0617100,9.066296325205031e-07,"60S ribosomal protein L11a, putative"
+PBANKA_0619100,3.7937478946878997e-17,"40S ribosomal protein S5, putative"
+PBANKA_0619700,5.571775900311441e-29,"rhoptry-associated leucine zipper-like protein 1, putative"
+PBANKA_0622900,2.70580670470222e-46,"conserved Plasmodium protein, unknown function"
+PBANKA_0623000,1.3037681131245098e-54,"Plasmodium exported protein, unknown function"
+PBANKA_0623100,8.29769624706058e-08,tryptophan-rich protein
+PBANKA_0623200,1.1927994748244e-38,"lysophospholipase, putative"
+PBANKA_0623300,1.6232341810198398e-38,tryptophan-rich protein
+PBANKA_0623400,7.080049232326069e-06,fam-a protein
+PBANKA_0623500,5.218889785976429e-50,fam-a protein
+PBANKA_0700700,0.0100916468522908,"Plasmodium exported protein, unknown function"
+PBANKA_0701000,2.8060704664102602e-15,"sporozoite and liver stage tryptophan-rich protein, pseudogene"
+PBANKA_0701900,7.697494926477109e-11,"GPI-anchored micronemal antigen, putative"
+PBANKA_0702800,1.8828621138566802e-15,protein disulfide isomerase
+PBANKA_0703900,2.58321491621975e-15,"receptor for activated c kinase, putative"
+PBANKA_0707400,1.17249758162487e-06,"RNA-binding protein, putative"
+PBANKA_0707700,3.39720609601146e-35,"conserved Plasmodium protein, unknown function"
+PBANKA_0711900,1.1035694861351499e-33,heat shock protein 70
+PBANKA_0712600,4.328522023664479e-15,14-3-3 protein
+PBANKA_0712700,3.5502781062399e-11,"zinc finger protein, putative"
+PBANKA_0712900,0.00161857294261646,high mobility group protein B2
+PBANKA_0713100,9.370275917682518e-63,"rhoptry neck protein 5, putative"
+PBANKA_0713200,0.0463393865853033,"conserved Plasmodium protein, unknown function"
+PBANKA_0716900,9.898573645917767e-58,"armadillo-domain containing rhoptry protein, putative"
+PBANKA_0717800,7.257752021821908e-17,"60S ribosomal protein L15, putative"
+PBANKA_0718800,3.2494747963997393e-11,"small GTP-binding protein sar1, putative"
+PBANKA_0720600,0.00282723836523985,"trafficking protein particle complex subunit 3, putative"
+PBANKA_0720800,9.63374862596696e-05,"RNA-binding protein NOB1, putative"
+PBANKA_0800300,2.5432606952229998e-05,"conserved Plasmodium protein, unknown function"
+PBANKA_0801000,0.0102620703843431,"conserved Plasmodium protein, unknown function"
+PBANKA_0802000,0.0005804271742411679,"conserved Plasmodium protein, unknown function"
+PBANKA_0803900,0.0009208521772883571,"conserved Plasmodium protein, unknown function"
+PBANKA_0804500,6.222162260450538e-113,"rhoptry-associated membrane antigen, putative"
+PBANKA_0805700,1.0056932498734001e-10,"heat shock protein 90, putative"
+PBANKA_0807600,0.000137559696881344,"40S ribosomal protein S11, putative"
+PBANKA_0812200,7.90851117307499e-36,"conserved Plasmodium protein, unknown function"
+PBANKA_0814000,0.0242588376352492,"conserved protein, unknown function"
+PBANKA_0814800,1.5418408663002e-14,"conserved Plasmodium protein, unknown function"
+PBANKA_0815400,3.32962754640055e-05,"conserved Plasmodium protein, unknown function"
+PBANKA_0816400,0.0242588376352492,"ATP-dependent 6-phosphofructokinase, putative"
+PBANKA_0817300,0.0025499271977858303,"conserved Plasmodium protein, unknown function"
+PBANKA_0818900,5.196778720986769e-28,"heat shock protein 70, putative"
+PBANKA_0819000,6.35444501119382e-11,"glideosome-associated protein 50, putative"
+PBANKA_0819600,8.413111764527639e-10,"conserved Plasmodium protein, unknown function"
+PBANKA_0819900,1.36595870474689e-10,nucleosome assembly protein
+PBANKA_0820100,1.5060352162176799e-18,"PPPDE peptidase, putative"
+PBANKA_0823100,3.37655680638622e-13,"S-adenosylmethionine synthetase, putative"
+PBANKA_0824800,0.0065231093371026705,"polyadenylate-binding protein 2, putative"
+PBANKA_0826500,0.0065231093371026705,"histone deacetylase 1, putative"
+PBANKA_0826700,4.3447194957415497e-14,"conserved Plasmodium protein, unknown function"
+PBANKA_0830200,1.8596559935987e-07,high molecular weight rhoptry protein 2
+PBANKA_0831000,3.3740469773395096e-08,merozoite surface protein 1
+PBANKA_0832800,9.89939429067731e-29,"conserved Plasmodium protein, unknown function"
+PBANKA_0833000,1.3032358610343999e-14,profilin
+PBANKA_0835400,2.13262658010831e-12,"conserved Plasmodium protein, unknown function"
+PBANKA_0836200,2.01908010178161e-39,"conserved Plasmodium protein, unknown function"
+PBANKA_0901000,2.2467212596525898e-08,fam-a protein
+PBANKA_0908300,0.000138294933742622,"conserved Plasmodium protein, unknown function"
+PBANKA_0910700,6.69285602317962e-06,"conserved Plasmodium protein, unknown function"
+PBANKA_0911700,2.1366804040041798e-12,subtilisin-like protease 2
+PBANKA_0912400,3.98525372977971e-07,"conserved Plasmodium protein, unknown function"
+PBANKA_0913400,2.8960604429990495e-79,protein phosphatase PPM8
+PBANKA_0914200,0.0421056813482116,"conserved Plasmodium protein, unknown function"
+PBANKA_0915000,2.864704369947729e-97,apical membrane antigen 1
+PBANKA_0915600,3.5093964931670294e-36,aquaglyceroporin
+PBANKA_0918000,5.8451439102311e-11,"60S acidic ribosomal protein P0, putative"
+PBANKA_0921400,9.14141853106539e-18,"protein phosphatase, putative"
+PBANKA_0921700,2.86854389373539e-12,"autophagy-related protein 23, putative"
+PBANKA_0922100,3.6001562657254294e-09,"40S ribosomal protein S18, putative"
+PBANKA_0922600,1.43010858506965e-05,"kelch domain-containing protein, putative"
+PBANKA_0924400,9.65472535857175e-17,"13 kDa ribonucleoprotein-associated protein, putative"
+PBANKA_0924900,0.0276890686035502,"translation elongation factor EF-1, subunit alpha, putative"
+PBANKA_0926700,2.2848525086559992e-166,exported protein 1
+PBANKA_0929600,0.0178230754876575,"nucleolar protein 56, putative"
+PBANKA_0930300,6.24844797857465e-07,"GTP-binding nuclear protein RAN/TC4, putative"
+PBANKA_0931100,0.00399331205690412,"conserved Plasmodium protein, unknown function"
+PBANKA_0931200,4.879012353884919e-62,heat shock protein 101
+PBANKA_0931300,0.0006418365163557451,"dipeptidyl aminopeptidase 1, putative"
+PBANKA_0932000,2.8366620186699493e-89,rhoptry neck protein 4
+PBANKA_0932400,0.00740190167236493,berghepain-2
+PBANKA_0932500,1.2977319763186801e-05,"histone-lysine N-methyltransferase SET7, putative"
+PBANKA_0933500,0.00308412748855416,rhomboid protease ROM1
+PBANKA_0937200,0.0364291705102515,"RNA-binding protein, putative"
+PBANKA_0939100,8.82628080798801e-10,"AP2 domain transcription factor, putative"
+PBANKA_0939600,2.6186262978308e-16,"polyadenylate-binding protein-interacting protein 1, putative"
+PBANKA_0941200,0.0489371085505221,"tRNA-splicing ligase RtcB, putative"
+PBANKA_0941300,1.5422597997017802e-15,translocon component PTEX88
+PBANKA_0941500,4.27298787820964e-06,"40S ribosomal protein S4, putative"
+PBANKA_0941800,0.027483583066982998,"histone H2B, putative"
+PBANKA_0943600,9.57690384687839e-14,"60S acidic ribosomal protein P1, putative"
+PBANKA_0943900,0.0387526297854079,PIR protein
+PBANKA_1000011,0.0397363758714549,"reticulocyte binding protein, putative"
+PBANKA_1000500,0.00041218626262170296,"conserved Plasmodium protein, unknown function"
+PBANKA_1000600,2.1993732623637497e-62,erythrocyte membrane antigen 1
+PBANKA_1001500,0.0135208360795845,"alpha/beta hydrolase, putative"
+PBANKA_1002400,1.25158156086262e-21,"dipeptidyl aminopeptidase 3, putative"
+PBANKA_1002600,1.21139762127924e-47,6-cysteine protein
+PBANKA_1002700,0.0368869134956151,"ATP-dependent RNA helicase DDX51, putative"
+PBANKA_1003100,7.96366015639487e-05,"pre-mRNA-processing-splicing factor 8, putative"
+PBANKA_1003600,6.0940414445804e-12,"apical sushi protein, putative"
+PBANKA_1006800,0.00175073846421851,"protein SOF1, putative"
+PBANKA_1008500,1.1097586048193696e-85,translocon component PTEX150
+PBANKA_1008600,2.08645743176656e-12,"conserved Plasmodium protein, unknown function"
+PBANKA_1009200,1.4730732530064198e-07,"conserved Plasmodium protein, unknown function"
+PBANKA_1009500,1.7985412974092998e-09,"NAD(P)H-dependent glutamate synthase, putative"
+PBANKA_1010600,0.000113411070880806,"calmodulin, putative"
+PBANKA_1014500,0.000970837759629919,"plasmepsin IX, putative"
+PBANKA_1017700,0.00631504910843083,"cytochrome b-c1 complex subunit 6, putative"
+PBANKA_1018500,0.0260480759850691,"transcription factor BTF3, putative"
+PBANKA_1019500,4.3930920507241495e-26,"60S ribosomal protein L5, putative"
+PBANKA_1020100,7.03712355835452e-05,serine/threonine protein phosphatase 7
+PBANKA_1024300,0.00638696735923655,"ATP-dependent RNA helicase DBP4, putative"
+PBANKA_1024700,0.0241334089700148,"ubiquitin fusion degradation protein 1, putative"
+PBANKA_1025200,4.79680147362614e-06,"H/ACA ribonucleoprotein complex subunit 4, putative"
+PBANKA_1025300,1.70259886292508e-06,"rap guanine nucleotide exchange factor, putative"
+PBANKA_1026200,2.0695915737812602e-11,"NADP-specific glutamate dehydrogenase, putative"
+PBANKA_1028400,1.2343137874218199e-05,"60S ribosomal protein L10, putative"
+PBANKA_1029000,7.5581684569083495e-06,"conserved Plasmodium protein, unknown function"
+PBANKA_1030600,0.00218845116394528,"p1/s1 nuclease, putative"
+PBANKA_1031900,0.0257692004641594,"eukaryotic translation initiation factor 2 subunit gamma, putative"
+PBANKA_1032100,8.001851181310468e-100,rhoptry-associated protein 1
+PBANKA_1033100,4.4532275768272795e-13,"conserved Plasmodium protein, unknown function"
+PBANKA_1033900,1.2211217544937599e-11,"40S ribosomal protein S8e, putative"
+PBANKA_1034400,2.2098581972391503e-29,plasmepsin IV
+PBANKA_1035400,1.28430413036673e-08,"glideosome associated protein with multiple membrane spans 3, putative"
+PBANKA_1035900,4.45569500583525e-15,"glycerophosphodiester phosphodiesterase, putative"
+PBANKA_1037400,2.6524131744151995e-17,"conserved Plasmodium protein, unknown function"
+PBANKA_1039400,2.29586563591939e-06,"ribosomal protein S27a, putative"
+PBANKA_1100700,0.000162423333455708,fam-a protein
+PBANKA_1100860,2.8545646912395304e-15,fam-c protein
+PBANKA_1100900,6.5049480757460195e-28,fam-a protein
+PBANKA_1101100,7.96072015478007e-64,"Plasmodium exported protein, unknown function"
+PBANKA_1101200,5.05639833210111e-29,"Plasmodium exported protein, unknown function"
+PBANKA_1101300,2.4822061013574696e-33,skeleton-binding protein 1
+PBANKA_1101400,2.458834333423299e-99,rhoptry-associated protein 2/3
+PBANKA_1102200,9.927842297205229e-29,merozoite surface protein 8
+PBANKA_1103000,3.3259486655694104e-05,"serine/arginine-rich splicing factor 12, putative"
+PBANKA_1103300,4.5822716629747306e-08,myosin B
+PBANKA_1103400,1.47514327584008e-11,"60S ribosomal protein L31, putative"
+PBANKA_1106700,3.05360526046881e-35,"60S ribosomal protein L4, putative"
+PBANKA_1107100,2.48947086763413e-11,subtilisin-like protease 1
+PBANKA_1107600,0.00617166872513893,6-cysteine protein
+PBANKA_1107900,0.0168632576122289,triose phosphate transporter
+PBANKA_1108500,1.48860093647654e-13,"conserved Plasmodium protein, unknown function"
+PBANKA_1115300,2.2855338269890398e-30,"glideosome-associated protein 40, putative"
+PBANKA_1115700,0.00543476374132115,"kinetochore protein NDC80, putative"
+PBANKA_1117000,6.15450454651894e-05,"histone H2A, putative"
+PBANKA_1119600,5.2412913765711296e-05,"merozoite surface protein 10, putative"
+PBANKA_1122700,1.90328735627727e-12,"tyrosine kinase-like protein, putative"
+PBANKA_1125600,6.69285602317962e-06,"pyruvate kinase, putative"
+PBANKA_1126800,3.86942410217624e-42,"HECT-domain (ubiquitin-transferase), putative"
+PBANKA_1127000,4.465941644109449e-90,choline/ethanolaminephosphotransferase
+PBANKA_1132900,0.0298247192787144,"regulator of chromosome condensation, putative"
+PBANKA_1133100,3.43502747721454e-13,"serine/threonine protein kinase, putative"
+PBANKA_1135100,2.17411526771009e-11,"40S ribosomal protein S15, putative"
+PBANKA_1135700,5.4314083758572594e-17,"CUGBP Elav-like family member 1, putative"
+PBANKA_1137200,0.000172490998267733,"protein transport protein Sec24A, putative"
+PBANKA_1137800,7.03712355835452e-05,glideosome-associated connector
+PBANKA_1145400,3.786678336769229e-68,"Plasmodium exported protein (PHIST), unknown function"
+PBANKA_1145800,1.35504621609623e-39,membrane associated histidine-rich protein 1a
+PBANKA_1145900,6.34635850510932e-34,membrane associated histidine-rich protein 1b
+PBANKA_1146000,0.000289852564869143,tryptophan-rich protein
+PBANKA_1200600,3.73394738152708e-49,"Plasmodium exported protein, unknown function"
+PBANKA_1200800,1.3830738070987902e-11,"transformer-2 protein homolog beta, putative"
+PBANKA_1201800,1.3866329102314901e-05,"conserved Plasmodium protein, unknown function"
+PBANKA_1201900,6.5935308135924304e-06,"40S ribosomal protein S20e, putative"
+PBANKA_1202000,9.615972000564658e-62,inner membrane complex protein 1c
+PBANKA_1202400,3.97770167721732e-23,"60S ribosomal protein L13, putative"
+PBANKA_1204400,0.00060519255604601,"DNA/RNA-binding protein Alba 3, putative"
+PBANKA_1206900,1.04588558144641e-06,"tubulin beta chain, putative"
+PBANKA_1207000,1.03777477679391e-06,"nucleolar protein 5, putative"
+PBANKA_1207100,3.2717359450816e-37,"Plasmodium exported protein, unknown function"
+PBANKA_1207900,4.05045882046312e-22,"protein phosphatase PPM10, putative"
+PBANKA_1210600,9.235440588045758e-23,"rhoptry associated adhesin, putative"
+PBANKA_1212200,3.32387908771623e-07,"conserved Plasmodium protein, unknown function"
+PBANKA_1212500,1.8139778965044997e-22,"merozoite surface protein MSA180, putative"
+PBANKA_1213300,0.0088288382393866,"conserved Plasmodium protein, unknown function"
+PBANKA_1214300,2.36772025043023e-08,"enolase, putative"
+PBANKA_1215100,3.3901960859206903e-06,"Rh5 interacting protein, putative"
+PBANKA_1216500,1.56617825839799e-08,"peptidyl-prolyl cis-trans isomerase, putative"
+PBANKA_1217600,3.81850273939008e-12,"histone H2A.Z, putative"
+PBANKA_1219200,0.0028318304270680103,"Cg8 protein, putative"
+PBANKA_1220200,0.00114691923971905,"lysophospholipase, putative"
+PBANKA_1222500,2.29190594559565e-12,"plasmepsin X, putative"
+PBANKA_1224200,0.009124764932319191,"DnaJ protein, putative"
+PBANKA_1225400,2.0143996158194398e-36,gamete release protein
+PBANKA_1226900,0.0281360660001213,"mitogen-activated protein kinase organizer 1, putative"
+PBANKA_1228800,1.1561321685100698e-05,"protein kinase, putative"
+PBANKA_1229000,1.4907436612958098e-55,"Plasmodium exported protein (PHIST), unknown function"
+PBANKA_1229200,4.738694433719729e-11,"60S ribosomal protein L19, putative"
+PBANKA_1230500,0.0049113739298530705,"RNA and export factor binding protein, putative"
+PBANKA_1231000,1.6987722348147e-09,"40S ribosomal protein S11, putative"
+PBANKA_1231600,0.000289759624214546,AP2 domain transcription factor AP2-O2
+PBANKA_1231700,4.53726370860371e-18,"60S ribosomal protein L2, putative"
+PBANKA_1232100,4.53726370860371e-18,"serine/arginine-rich splicing factor 1, putative"
+PBANKA_1234000,5.25282613807011e-09,"V-type proton ATPase 16 kDa proteolipid subunit, putative"
+PBANKA_1234200,0.000970837759629919,"40S ribosomal protein S24, putative"
+PBANKA_1237000,1.4052156709471002e-08,"18S rRNA (guanine-N(7))-methyltransferase, putative"
+PBANKA_1237100,0.00270444325179231,"conserved Plasmodium protein, unknown function"
+PBANKA_1237800,7.33820099155617e-08,"multidrug resistance protein 1, putative"
+PBANKA_1238800,1.39036341273194e-09,"karyopherin beta, putative"
+PBANKA_1240600,3.029501515016919e-67,"inner membrane complex protein 1g, putative"
+PBANKA_1241800,8.14760258365815e-09,"DNA replication licensing factor MCM3, putative"
+PBANKA_1243900,0.0015969161200351401,"conserved Plasmodium protein, unknown function"
+PBANKA_1246161,2.3372086658171696e-41,fam-a protein
+PBANKA_1303300,9.37127270647941e-13,"cytochrome b-c1 complex subunit Rieske, putative"
+PBANKA_1304000,0.0137040510124844,"conserved Plasmodium protein, unknown function"
+PBANKA_1305000,5.835111726778519e-08,"conserved Plasmodium protein, unknown function"
+PBANKA_1305100,1.53626574797727e-07,"60S ribosomal protein L1, putative"
+PBANKA_1305200,0.00748500838881994,"serine/threonine protein kinase, putative"
+PBANKA_1309700,0.0193829225499971,"ATP-dependent RNA helicase DDX5, putative"
+PBANKA_1310800,8.35374278247856e-14,"40S ribosomal protein S5, putative"
+PBANKA_1312900,4.89327980495471e-11,"conserved Plasmodium protein, unknown function"
+PBANKA_1313000,0.000895958642945725,"transcription factor IIIb subunit, putative"
+PBANKA_1314800,0.00023928411365281002,"elongation factor 2, putative"
+PBANKA_1314900,2.30188541758152e-05,"conserved Plasmodium protein, unknown function"
+PBANKA_1315500,0.00270444325179231,"sortilin, putative"
+PBANKA_1315700,5.915856345462519e-71,rhoptry neck protein 2
+PBANKA_1317400,0.0335453153642949,"HSP90 co-chaperone p23, putative"
+PBANKA_1318100,0.0143289080959759,"aminopeptidase P, putative"
+PBANKA_1319000,1.54479207653218e-17,"conserved Plasmodium protein, unknown function"
+PBANKA_1320500,2.3909653306571098e-79,"V-type H(+)-translocating pyrophosphatase, putative"
+PBANKA_1320700,5.15442299613701e-08,"signal peptide peptidase, putative"
+PBANKA_1321400,0.000456299380137519,"large ribosomal subunit nuclear export factor, putative"
+PBANKA_1324300,2.4496837928825997e-18,inner membrane complex sub-compartment protein 3
+PBANKA_1326400,0.0141239288393837,glyceraldehyde-3-phosphate dehydrogenase
+PBANKA_1327100,3.11452813671484e-05,"EF-hand calcium-binding domain-containing protein, putative"
+PBANKA_1327251,0.000289759624214546,fam-a protein
+PBANKA_1327300,5.277809699055519e-43,fam-a protein
+PBANKA_1328000,7.464558603189221e-11,serine/threonine protein phosphatase UIS2
+PBANKA_1329300,4.4532275768272795e-13,"40S ribosomal protein S3, putative"
+PBANKA_1329600,0.0186546450077664,"conserved Plasmodium protein, unknown function"
+PBANKA_1331400,5.94527875082178e-09,"conserved Plasmodium protein, unknown function"
+PBANKA_1331700,8.71268721609939e-07,"zinc finger protein, putative"
+PBANKA_1331900,7.556084789774741e-29,"eukaryotic initiation factor 4a, putative"
+PBANKA_1332700,1.7424516771539896e-88,duffy-binding protein
+PBANKA_1334300,2.2556469263632797e-107,exported protein 2
+PBANKA_1336600,0.00011568082158541799,"conserved Plasmodium protein, unknown function"
+PBANKA_1338300,0.00012751751801324298,"60S ribosomal protein L6, putative"
+PBANKA_1338900,8.44548529124288e-33,"glideosome associated protein with multiple membrane spans 1, putative"
+PBANKA_1340100,8.17484550995323e-06,L-lactate dehydrogenase
+PBANKA_1340300,0.00292123819553505,"phosphoribosylpyrophosphate synthetase, putative"
+PBANKA_1342500,2.5163327990734303e-15,"conserved Plasmodium protein, unknown function"
+PBANKA_1343000,1.36631052327714e-07,"ribose-phosphate pyrophosphokinase, putative"
+PBANKA_1344500,1.15716991103131e-14,"conserved Plasmodium protein, unknown function"
+PBANKA_1347000,7.357334904010459e-17,"conserved Plasmodium protein, unknown function"
+PBANKA_1349000,5.9928393854383496e-30,MSP7-like protein
+PBANKA_1349100,1.0637964760641698e-59,MSP7-like protein
+PBANKA_1349200,7.40877927706153e-13,MSP7-like protein
+PBANKA_1354300,4.05679345002779e-12,"sodium-dependent phosphate transporter, putative"
+PBANKA_1354400,1.84588086304877e-13,"60S ribosomal protein L18, putative"
+PBANKA_1354500,5.9727647650421694e-18,"60S ribosomal protein L18-2, putative"
+PBANKA_1355100,8.62059912289508e-11,"40S ribosomal protein S6, putative"
+PBANKA_1355700,2.0584298512355097e-100,myosin A
+PBANKA_1356100,0.0046986256126085,"conserved Plasmodium protein, unknown function"
+PBANKA_1356700,0.00019245880355160902,"kelch protein K13, putative"
+PBANKA_1356800,1.28892117247973e-09,"conserved Plasmodium protein, unknown function"
+PBANKA_1357300,4.161997941847059e-06,"zinc finger protein, putative"
+PBANKA_1358000,1.49190590951568e-07,thioredoxin 2
+PBANKA_1358500,1.20570273401908e-06,"inner membrane complex protein, putative"
+PBANKA_1359000,1.6358236242726498e-16,"protein transport protein SEC61 subunit alpha, putative"
+PBANKA_1359200,3.23328956376752e-09,"DNA/RNA-binding protein Alba 2, putative"
+PBANKA_1360100,2.0146857058323303e-12,nucleoside transporter 1
+PBANKA_1360500,0.00629420212814676,ethanolamine-phosphate cytidylyltransferase
+PBANKA_1362000,0.000570766613292299,"glutamate--tRNA ligase, putative"
+PBANKA_1363300,0.01588252241739,"conserved Plasmodium protein, unknown function"
+PBANKA_1364200,7.512724920751939e-14,"60S ribosomal protein L17, putative"
+PBANKA_1364400,3.0251744167730605e-17,"inner membrane complex protein 1f, putative"
+PBANKA_1364500,0.00186986755813503,"conserved Plasmodium protein, unknown function"
+PBANKA_1365200,9.041667070141329e-14,"thioredoxin-related protein, putative"
+PBANKA_1365500,5.507142454922629e-19,exported protein IBIS1
+PBANKA_1400091,8.352842760715799e-05,"reticulocyte binding protein, putative"
+PBANKA_1400600,2.3226685844766297e-60,"cytoadherence linked asexual protein, putative"
+PBANKA_1400800,0.0243869898342725,protein UIS3
+PBANKA_1401300,1.08345891096419e-07,"40S ribosomal protein S7, putative"
+PBANKA_1401900,0.0165194136388497,"LisH domain-containing protein, putative"
+PBANKA_1406500,0.000318465622731412,"conserved Plasmodium protein, unknown function"
+PBANKA_1406700,1.0457673864459699e-09,"carbamoyl phosphate synthetase, putative"
+PBANKA_1406800,0.000347647950034775,"40S ribosomal protein S27, putative"
+PBANKA_1407600,0.0135194857763676,"60S ribosomal protein L24, putative"
+PBANKA_1409200,2.4406995119708902e-26,"RNA-binding protein, putative"
+PBANKA_1410300,1.4608856112592102e-08,"M1-family alanyl aminopeptidase, putative"
+PBANKA_1416300,2.43707880197334e-05,"40S ribosomal protein S19, putative"
+PBANKA_1418300,3.38187013212504e-08,"golgi protein 1, putative"
+PBANKA_1420500,1.34606192128254e-16,"conserved Plasmodium protein, unknown function"
+PBANKA_1420600,0.017605101655058,"histone H2B variant, putative"
+PBANKA_1423300,5.880977541230941e-24,"DNA/RNA-binding protein Alba 1, putative"
+PBANKA_1423500,0.000272782342892036,"60S ribosomal protein L13-2, putative"
+PBANKA_1423600,2.04096382275782e-05,"40S ribosomal protein S16, putative"
+PBANKA_1424300,5.9024352743679285e-71,"conserved Plasmodium protein, unknown function"
+PBANKA_1425900,3.1435881123346196e-29,"conserved Plasmodium protein, unknown function"
+PBANKA_1426200,0.00428494243417429,"CCR4-associated factor 1, putative"
+PBANKA_1428700,0.000203587282587918,"eukaryotic translation initiation factor 3 subunit A, putative"
+PBANKA_1428900,4.65566256016959e-05,"bromodomain protein 2, putative"
+PBANKA_1430700,7.44661064783893e-16,"conserved Plasmodium protein, unknown function"
+PBANKA_1433000,1.2921980526961998e-07,"conserved Plasmodium protein, unknown function"
+PBANKA_1433600,9.87348082199568e-06,thrombospondin-related apical membrane protein
+PBANKA_1434100,8.687295901915289e-06,"dynamin-like protein, putative"
+PBANKA_1434800,0.0027803495831007197,"aminophospholipid-transporting P-ATPase, putative"
+PBANKA_1436500,7.06693713395182e-05,"conserved Plasmodium protein, unknown function"
+PBANKA_1437300,0.0065840879991227895,"endoplasmin, putative"
+PBANKA_1437600,5.872027898321439e-27,"glideosome-associated protein 45, putative"
+PBANKA_1439200,9.926855096144839e-33,"polyadenylate-binding protein 1, putative"
+PBANKA_1441700,0.000288320663360716,"parasitophorous vacuolar protein 2, putative"
+PBANKA_1443300,2.925150234083089e-57,"merozoite surface protein 9, putative"
+PBANKA_1445800,4.4331977323377e-10,"ras-related protein Rab-2, putative"
+PBANKA_1445900,3.6749983043643904e-10,"conserved Plasmodium protein, unknown function"
+PBANKA_1446100,0.00270444325179231,"amino acid transporter, putative"
+PBANKA_1449400,4.05068415776003e-05,"splicing factor 3B subunit 3, putative"
+PBANKA_1449700,6.54772477411251e-16,"conserved Plasmodium protein, unknown function"
+PBANKA_1453400,1.65522365587617e-37,protein kinase 2
+PBANKA_1453500,0.00023596599513652403,"HD superfamily phosphohydrolase protein, putative"
+PBANKA_1454200,0.000876691348637836,"conserved Plasmodium protein, unknown function"
+PBANKA_1456100,0.000141404063821843,"40S ribosomal protein S17, putative"
+PBANKA_1457550,0.0206062039722662,ACEA small nucleolar RNA U3
+PBANKA_1459400,0.00167501809207628,"conserved Plasmodium protein, unknown function"
+PBANKA_1459500,2.0501080724188397e-68,"myosin A tail domain interacting protein MTIP, putative"
+PBANKA_1464500,4.97805835985475e-05,"ATP-dependent RNA helicase DRS1, putative"
+PBANKA_1464900,4.6538968819320395e-17,"rhoptry neck protein 3, putative"
+PBANKA_1465100,1.49506934085384e-08,"Plasmodium exported protein, unknown function"
+PBANKA_MIT00800:rRNA,9.70824987760638e-10,no description
+PBANKA_MIT01000:rRNA,3.44048181828292e-05,no description
